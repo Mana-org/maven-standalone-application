@@ -42,13 +42,13 @@
 <snapshotRepository>
 <id>nexus</id>
 <name> Standard alone application</name>
-<url>http://65.2.161.224:8081/repository/flipkart-snapshot/</url>
+<url>http://65.0.183.32:8081/repository/flipkart-snapshot/</url>
 </snapshotRepository>
 
 <repository>
 <id>nexus</id>
 <name> Standard alone application</name>
-<url>http://65.2.161.224:8081/repository/flipkart-release/</url>
+<url>http://65.0.183.32:8081/repository/flipkart-release/</url>
 </repository>
 
 </distributionManagement>
